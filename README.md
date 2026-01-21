@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Shantam
 
-<!--
-**shantam-genai/shantam-genai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Gen AI Developer | Python | LangChain
 
-Here are some ideas to get you started:
+I'm a BTech student passionate about building practical Gen AI solutions like chatbots, AI assistants, and document-based Q&A systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python
+- Gen AI & LLMs
+- LangChain
+- Prompt Engineering
+- RAG (Retrieval Augmented Generation)
+- FAISS / Vector Databases
+- API Integration
+
+## 🧠 Projects
+### 📄 PDF Chatbot
+AI chatbot that answers questions from uploaded PDFs using LangChain and FAISS.
+
+### 🤖 AI Assistant Chatbot
+Custom AI assistant for FAQs and automation tasks.
+
+## 🎯 What I'm Learning
+- Advanced LangChain
+- LangGraph
+- AI Agents
+- Production deployment of Gen AI apps
+
+## 📫 Contact Me
+
+- LinkedIn: www.linkedin.com/in/shantam-baidya-1a33b3384
