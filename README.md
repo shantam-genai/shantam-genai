@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shantam
 
-🚀 Gen AI Developer | Python | LangChain
+🚀 Gen AI Developer | Python | LangChain | Cybersecurity Enthusiast | VAPT
 
 I'm a BTech student passionate about building practical Gen AI solutions like chatbots, AI assistants, and document-based Q&A systems.
 
