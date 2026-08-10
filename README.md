@@ -28,4 +28,4 @@ Custom AI assistant for FAQs and automation tasks.
 
 ## 📫 Contact Me
 
-- LinkedIn: www.linkedin.com/in/shantam-baidya-1a33b3384
+- LinkedIn: www.linkedin.com/in/shantam-baidya
